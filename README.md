@@ -1,5 +1,5 @@
 # Pierrot Shimeji
-Pierrot version of the Shimeji companion app with new animations.
+Pierrot version of the Shimeji companion app with bonus animation.
 Credit goes to Kilkakon.
 
 ## How to run:
@@ -16,7 +16,7 @@ Congrats, you have a new Pierrot shaped intruder on your pc lol, jk.
 https://github.com/user-attachments/assets/25726bf1-2fea-40a9-8c15-0d0f8e9e7a19
 
 
-Modification + New animations added by me.
+Modification + New animation added by me.
 For more info visit: https://kilkakon.com/shimeji/
 Copyright © Shimeji-ee Group
 All rights reserved.
