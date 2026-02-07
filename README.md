@@ -11,7 +11,12 @@ Credit goes to Kilkakon.
 
 Congrats, you have a new Pierrot shaped intruder on your pc lol, jk.
 
+## Video of the app
+
+https://github.com/user-attachments/assets/25726bf1-2fea-40a9-8c15-0d0f8e9e7a19
+
 
 Modification + New animations added by me.
+For more info visit: https://kilkakon.com/shimeji/
 Copyright © Shimeji-ee Group
 All rights reserved.
