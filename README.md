@@ -8,7 +8,7 @@ Credit goes to [Kilkakon](https://kilkakon.com/shimeji/).
 - Extract the zip file on your PC
 - Run the `start.jar` file
 
-Congrats, you have a new Pierrot shaped intruder on your pc lol, jk.
+Congrats, you have a new Pierrot shaped intruder on your pc lol, jk.  unless...
 
 Only tested on Windows!
 
