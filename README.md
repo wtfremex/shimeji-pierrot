@@ -3,7 +3,7 @@ Pierrot version of the Shimeji companion app with bonus animation.
 Credit goes to [Kilkakon](https://kilkakon.com/shimeji/).
 
 ## How to run:
-- Make sure you have Java 8 installed on your computer
+- Download  [Java 8](https://www.java.com/en/download/manual.jsp) if you do not have it 
 - Download the zip file from [Releases](https://github.com/wtfremex/shimeji-pierrot/releases)
 - Extract the zip file on your PC
 - Run the `start.jar` file
