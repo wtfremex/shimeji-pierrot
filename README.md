@@ -1,6 +1,8 @@
 # Pierrot Shimeji
 Pierrot version of the Shimeji companion app with bonus animation.
-Credit goes to [Kilkakon](https://kilkakon.com/shimeji/).
+Character belongs to [NekoBueno](https://www.tumblr.com/nekoboydreams).
+Software used from [Kilkakon](https://kilkakon.com/shimeji/).
+
 
 ## How to run:
 - Download  [Java 8](https://www.java.com/en/download/manual.jsp) if you do not have it 
